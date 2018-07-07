@@ -37,7 +37,7 @@ The training was organised by [Rigetti Computing](https://www.rigetti.com/) and 
 - _Manually simplifying quantum circuits_
 - _Flipping CNOTs by sandwiching them with Hadamards_
 
-### 1200 - 1230 Lecture III pyQuil + Abstract quantum programming
+### 1200 - 1230: Lecture III pyQuil + Abstract quantum programming
 - _pyQuil syntax & code examples_
 - _how to use the library_
 - _Compiler, QPU and QVM_
