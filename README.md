@@ -9,37 +9,39 @@ The training was organised by [Rigetti Computing](https://www.rigetti.com/) and 
 Introduction by Peter Wittek
 
 ### 915 - 1000
-Lecture I: Introduction to universal QC
-	- Intro to Rigetti
+Lecture I: Introduction to universal quantum computing
+
+- Intro to Rigetti
 	- Forest
-		- Quil
-		- pyQuil
-		- Grove
-		- Quantum Virtual Machine
-	- First Quil program (quantum assembler)
+	- Quil
+	- pyQuil
+	- Grove
+	- Quantum Virtual Machine
+- First Quil program (quantum assembler)
 
 ### 1000 - 1030
 Tutorial I: Quantum assembler
-	- Coding in low-level Quil
-	- First quantum circuits
-	- Measuring quantum states
+
+- Coding in low-level Quil
+- First quantum circuits
+- Measuring quantum states
 
 ### 1030 - 1045
 Coffee break
 
 ### 1045 - 1100
 Lecture II: Quantum gates & notation
-	- Visualizing quantum states on the Bloch sphere
-	- Elementary quantum gates
-	- Single- and multi-qubit gates
-	- (Non)equivalence of different notations
-	- Quantum gate identities
+- Visualizing quantum states on the Bloch sphere
+- Elementary quantum gates
+- Single- and multi-qubit gates
+- (Non)equivalence of different notations
+- Quantum gate identities
 
 ### 1100 - 1200
 Tutorial II: Quantum gates on the Bloch sphere
-	- Pauli gates and arbitrary rotations on the Bloch sphere?
-	- Manually simplifying quantum circuits
-	- Flipping CNOTs by sandwiching them with Hadamards
+- Pauli gates and arbitrary rotations on the Bloch sphere?
+- Manually simplifying quantum circuits
+- Flipping CNOTs by sandwiching them with Hadamards
 
 ### 1200 - 1230
 Lecture III: pyQuil + Abstract quantum programming
@@ -52,16 +54,16 @@ Lunch
 
 ### 1300 - 1400
 Tutorial III: Shallow circuits in pyQuil
-	- Gate decomposition
-	- Manual state preparation
-	- Quantum simulation circuits
+- Gate decomposition
+- Manual state preparation
+- Quantum simulation circuits
 
 ### 1400 - 1415
 Lecture IV: Rigetti's QPU + Implications
-	- Rigetti's quantum processor
-	- Qubit decoherence + noise
-	- Simulating the QPU with noise models
-	- QPU topology and implications (SWAPs, "graph embeddings")
+- Rigetti's quantum processor
+- Qubit decoherence + noise
+- Simulating the QPU with noise models
+- QPU topology and implications (SWAPs, "graph embeddings")
 
 ### 1415 - 1500
 Tutorial IV: Programming the QPU
