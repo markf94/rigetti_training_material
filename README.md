@@ -27,7 +27,6 @@ The training was organised by [Rigetti Computing](https://www.rigetti.com/) and 
 
 ### 1045 - 1100: Lecture II Quantum gates & notation
 - _Visualizing quantum states on the Bloch sphere_
-- _Elementary quantum gates_
 - _Single- and multi-qubit gates_
 - _(Non)equivalence of different notations_
 - _Quantum gate identities_
