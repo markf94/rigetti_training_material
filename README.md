@@ -61,3 +61,8 @@ The training was organised by [Rigetti Computing](https://www.rigetti.com/) and 
 - _Using Rigetti's compiler_
 
 ### 1500: Coffee break & end
+
+
+## Feedback
+
+Please provide us with feedback on this training material [in this 2min online survey](https://www.surveymonkey.com/r/TCKCWY5). Thanks!
