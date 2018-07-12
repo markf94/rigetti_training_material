@@ -11,6 +11,8 @@ The training was organised by [Rigetti Computing](https://www.rigetti.com/) and 
 
 ### 915 - 1000: Lecture I Introduction to universal quantum computing
 
+- _Why program a quantum computer_
+- _The fundamentals of universal quantum computing_
 - _Intro to Rigetti_
 	- _Forest_
 	- _Quil_
