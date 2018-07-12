@@ -28,28 +28,33 @@ The training was organised by [Rigetti Computing](https://www.rigetti.com/) and 
 ### 1045 - 1100: Lecture II Quantum gates & notation
 - _Visualizing quantum states on the Bloch sphere_
 - _Single- and multi-qubit gates_
+- _Properties of quantum gates_
 - _(Non)equivalence of different notations_
-- _Quantum gate identities_
+- _Pen & paper quantum computing_
 
 ### 1100 - 1200: Tutorial II Quantum gates on the Bloch sphere
-- _Pauli gates and arbitrary rotations on the Bloch sphere?_
-- _Manually simplifying quantum circuits_
-- _Flipping CNOTs by sandwiching them with Hadamards_
+- _Quantum gates and their corresponding rotations on the Bloch sphere_
+- _pyQuil's wavefunction_
+- _Quantum gate identities_
+- _Notation_
 
 ### 1200 - 1230: Lecture III pyQuil + Abstract quantum programming
 - _pyQuil syntax & code examples_
-- _how to use the library_
-- _Compiler, QPU and QVM_
+- _Classical control flow_
+- _Quantum state preparation_
+- _Grove_
 
 ### 1230 - 1300: Lunch
 
 ### 1300 - 1400: Tutorial III Shallow circuits in pyQuil
-- _Gate decomposition_
-- _Manual state preparation_
+
+- _Universal quantum gate set_
+- _Quantum state preparation_
+- _Grove's quantum state generator_
 - _Quantum simulation circuits_
 
 ### 1400 - 1415: Lecture IV Rigetti's QPU + Implications
-- _Rigetti's quantum processor_
+- _Rigetti's quantum processors_
 - _Qubit decoherence + noise_
 - _Simulating the QPU with noise models_
 - _QPU topology and implications (SWAPs, "graph embeddings")_
