@@ -1,4 +1,6 @@
 # Rigetti Training Day I
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/markf94/rigetti_training_material/blob/master/README.md.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmarkf94%2Frigetti_training_material%2Fblob%2Fmaster%2FREADME.md)
+
 This repository contains all necessary material for the first Rigetti training day at the [Creative Destruction Lab Quantum Machine Learning](https://www.creativedestructionlab.com/streams/quantum2018/) stream 2018/2019.
 
 The training was organised by [Rigetti Computing](https://www.rigetti.com/) and jointly conducted by [Tomas Babej](https://www.linkedin.com/in/tbabej/) and [Mark Fingerhuth](https://www.linkedin.com/in/mark-fingerhuth/).
