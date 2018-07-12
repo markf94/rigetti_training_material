@@ -10,7 +10,7 @@ The training was organised by [Rigetti Computing](https://www.rigetti.com/) and 
 ### 900 - 915: Introduction by Peter Wittek
 
 ### 915 - 1000: Lecture I Introduction to universal quantum computing
-Unfortunately, we cannot publish this slide deck. Please watch [Will Zeng's talk](https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest) for the content of this lecture.
+Unfortunately, we cannot publish this slide deck. Please watch [Will Zeng's equivalent talk](https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest) for the content of this lecture.
 
 - _Why program a quantum computer_
 - _The fundamentals of universal quantum computing_
