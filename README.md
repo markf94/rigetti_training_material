@@ -56,13 +56,14 @@ The training was organised by [Rigetti Computing](https://www.rigetti.com/) and 
 ### 1400 - 1415: Lecture IV Rigetti's QPU + Implications
 - _Rigetti's quantum processors_
 - _Qubit decoherence + noise_
-- _Simulating the QPU with noise models_
-- _QPU topology and implications (SWAPs, "graph embeddings")_
+- _Simulating the QPU using QVM with noise models_
+- _QPU topology and implications_
+- _Compiler_
 
 ### 1415 - 1500: Tutorial IV Programming the QPU
-- _Working with noise models_
-- _Finding manual embeddings onto the native QPU topology (minimizing SWAPs)_
+- _Introspecting QPU specification using API_
 - _Calculating fidelity of circuits_
+- _Working with noise models_
 - _Using Rigetti's compiler_
 
 ### 1500: Coffee break & end
