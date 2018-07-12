@@ -1,15 +1,16 @@
 # Rigetti Training Day I
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/markf94/rigetti_training_material/blob/master/README.md.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmarkf94%2Frigetti_training_material%2Fblob%2Fmaster%2FREADME.md)
 
-This repository contains all necessary material for the first Rigetti training day at the [Creative Destruction Lab Quantum Machine Learning](https://www.creativedestructionlab.com/streams/quantum2018/) stream 2018/2019.
+This repository contains all necessary material for the first Rigetti training day at the [Creative Destruction Lab Quantum Machine Learning](https://www.creativedestructionlab.com/streams/quantum2018/) stream 2018/2019. The solutions to the Jupyter notebooks can be found [here](https://github.com/markf94/rigetti_training_solutions).
 
-The training was organised by [Rigetti Computing](https://www.rigetti.com/) and jointly conducted by [Tomas Babej](https://www.linkedin.com/in/tbabej/) and [Mark Fingerhuth](https://www.linkedin.com/in/mark-fingerhuth/).
+The training was organised by [Rigetti Computing](https://www.rigetti.com/) and all of the training material was jointly created and presented by [Tomas Babej](https://www.linkedin.com/in/tbabej/) and [Mark Fingerhuth](https://www.linkedin.com/in/mark-fingerhuth/).
 
 ## Timetable
 
 ### 900 - 915: Introduction by Peter Wittek
 
 ### 915 - 1000: Lecture I Introduction to universal quantum computing
+Unfortunately, we cannot publish this slide deck. Please watch [Will Zeng's talk](https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest) for the content of this lecture.
 
 - _Why program a quantum computer_
 - _The fundamentals of universal quantum computing_
@@ -70,8 +71,9 @@ The training was organised by [Rigetti Computing](https://www.rigetti.com/) and 
 - _Working with noise models_
 - _Using Rigetti's compiler_
 
-### 1500: Coffee break & end
+### 1500: Coffee break
 
+### 1530 - END: Q&A on quantum entrepreneurship
 
 ## Feedback
 
