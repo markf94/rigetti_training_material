@@ -74,7 +74,3 @@ Unfortunately, we cannot publish this slide deck. Please watch [Will Zeng's equi
 ### 1500: Coffee break
 
 ### 1530 - END: Q&A on quantum entrepreneurship
-
-## Feedback
-
-Please provide us with feedback on this training material [in this 2min online survey](https://www.surveymonkey.com/r/TCKCWY5). Thanks!
